@@ -40,6 +40,7 @@ public class HelloWorld {
         System.out.println("master test 2!!!");
         System.out.println("hot-fix test!!!");
         System.out.println("push test2!!!");
+        System.out.println("pull test!!!");
     }
 
 
