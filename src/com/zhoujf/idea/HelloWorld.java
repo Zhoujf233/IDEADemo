@@ -36,16 +36,13 @@ public class HelloWorld {
     private static void method3() {
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
     }
 
 
     @Test
     public void test1(){
         new Thread(){
-            public void run(){
 
-            }
         };
     }
 }
